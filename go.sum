@@ -94,8 +94,8 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.7.2 h1:4jaiDzPyXQvSd7D0EjG45355tLlV3VOECpq10pLC+8s=
 github.com/stretchr/testify v1.7.2/go.mod h1:R6va5+xMeoiuVRoj+gSkQ7d3FALtqAAGI1FQKckRals=
-github.com/sys-int/opnsense-api v0.0.2 h1:24umjalNDB1ZLJkO9JnFVZdZkPZxdxjlGzByj0Fh2XQ=
-github.com/sys-int/opnsense-api v0.0.2/go.mod h1:/S7LqaYy9XSWqZLC5VUZsE7n/qQyHcA2UvWTTkw08d4=
+github.com/sys-int/opnsense-api v0.0.12 h1:fuRhinCyOMRq4DJivADdd0cAwwN02gHqtHseNZlykRs=
+github.com/sys-int/opnsense-api v0.0.12/go.mod h1:/S7LqaYy9XSWqZLC5VUZsE7n/qQyHcA2UvWTTkw08d4=
 github.com/vmihailenco/msgpack v3.3.3+incompatible/go.mod h1:fy3FlTQTDXWkZ7Bh6AcGMlsjHatGryHQYUTf1ShIgkk=
 github.com/vmihailenco/msgpack v4.0.4+incompatible h1:dSLoQfGFAo3F6OoNhwUmLwVgaUXK79GlxNBwueZn0xI=
 github.com/vmihailenco/msgpack v4.0.4+incompatible/go.mod h1:fy3FlTQTDXWkZ7Bh6AcGMlsjHatGryHQYUTf1ShIgkk=
